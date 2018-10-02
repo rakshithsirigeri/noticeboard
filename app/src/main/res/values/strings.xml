@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">notice</string>
+    <string name="facebook_app_id">249237239110818</string>
+    <string name="fb_login_protocol_scheme">fb249237239110818</string>
+    <string name="facebook_application_id" translatable="false">APP_ID</string>
+</resources>
